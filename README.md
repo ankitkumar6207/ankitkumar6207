@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ankitso66323623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankitso66323623" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https: //www.linkedin.com/in/ankit-kumar-85aaaa202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https: //www.linkedin.com/in/ankit-kumar-85aaaa202" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https: //https://www.linkedin.com/in/ankit-kumar-85aaaa202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https: //www.linkedin.com/in/ankit-kumar-85aaaa202" height="30" width="40" /></a>
 <a href="https://fb.com/https: //m.facebook.com/profile.php" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https: //m.facebook.com/profile.php" height="30" width="40" /></a>
 </p>
 
