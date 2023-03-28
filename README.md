@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead]()](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Verma</h1>
-<h3 align="center">A passionate and Enthusiast Frontend developer and currently learning APP development</h3>
+<h3 align="center">A passionate and Enthusiast Full Stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
