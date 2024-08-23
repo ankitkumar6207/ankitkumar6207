@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Ankit Verma</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A passionate and Enthusiast Full Stack web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar6207&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar6207" /> </p>
 
-- 🔭 I’m currently working on **NOTExpert APP**
+- 🔭 I’m currently working on **Social Media app for KIIT university**
 
-- 🌱 I’m currently learning **Android development and ReactJs**
+- 🌱 I’m currently learning **Next Js**
 
-- 🤝 I’m looking for help with **Android**
+- 🤝 I’m looking for help with **Web development and Flutter**
 
-- 📫 How to reach me **ankitsoni7544@gmail.com**
+- 📫 How to reach me **ankitit10012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tc26y3MiLYA7uJYqn3tSpcMT4MAs4JUc/view?usp=sharing](https://drive.google.com/file/d/1Tc26y3MiLYA7uJYqn3tSpcMT4MAs4JUc/view?usp=sharing)
+- 📄 Know about my experiences [Ankit kumar Resume.pdf](https://github.com/user-attachments/files/16731895/Ankit.kumar.Resume.pdf)
 
 - ⚡ Fun fact **I think, I am humorous 😂**
 
